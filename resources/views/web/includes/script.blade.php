@@ -1,0 +1,1 @@
+@action('web_js')
